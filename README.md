@@ -6,7 +6,7 @@
 I'm a passionate developer with a knack for solving complex problems and a love for creating efficient, scalable applications. My journey in tech started 6 years ago, and since then, I've dabbled in a myriad of technologies and frameworks.
 
 - 🌱 Currently learning: Rust 
-- 👯 Looking to collaborate on: SAAS projects, Tooling, Finding the ultimate perfect CI/CD
+- 👯 Looking to collaborate on: SAAS projects, Tooling, Finding the ultimate perfect CI/CD, ...
 - 💬 Ask me about: Backend Software Engineering (Python/Rust), Architecture & Infrastructure, Cloud & Devops Engineering
 
 ## 🛠️ Skills
